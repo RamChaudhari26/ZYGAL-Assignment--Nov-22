@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1{
+    width: 50%;
+    height: 30%;
+    display: flex;
+}
+
+.container2{
+    width: 50%;
+    height: 20%;
+    display: flex;
+}
+
+.container3{
+    width: 50%;
+    height: 30%;
+    display: flex;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.button1{
+    border: solid 1px;
+    text-align: center;
+    background-color: rgb(224, 239, 243);
+    width: 100px;
+    height: 180px;
+}
+
+
+.button2{
+    border: solid 1px;
+    text-align: center ;
+    background-color: rgb(224, 239, 243);
+    width: 100px;
+    height: 180px;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(247, 191, 7);
+}
+
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
